@@ -5,4 +5,15 @@ For this project I created a bike trip analysis on Citi bike data in New York Ci
 
 The finalized Tableau story of the Citi Bike analysis can be found here: [link to dashboard](https://public.tableau.com/app/profile/leila4630/viz/CitiBikeSharingAnalysis_16543575020420/BikeSharingAnalysis?publish=yes)
 
+## Resources
+- Data Source
+  - Historical Citi Bike trip data from August 2019, presented on the Citi Bike webpage
+- Software/Software library
+  - Tableau 
+  - Pandas
+- Languages
+  - Python
+
+
+
 
